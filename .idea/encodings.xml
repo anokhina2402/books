@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/package-lock.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/package.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/App.test.tsx" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/App.tsx" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/app/hooks.ts" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/books/Books.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/books/Books.tsx" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/http-common.ts" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/search/Search.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/search/Search.tsx" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/search/searchAPI.ts" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/search/searchSlice.spec.ts" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/search/searchSlice.ts" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/css/App.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/css/icon.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/css/icon.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/index.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/index.tsx" charset="UTF-8" />
+  </component>
+</project>
